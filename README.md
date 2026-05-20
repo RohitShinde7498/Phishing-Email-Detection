@@ -180,7 +180,7 @@ Input Features
 ## 📁 Project Structure
 
 ```
-phishguard/
+Phishing-Email-Detection/
 ├── model.py          # ML model, feature extraction, training
 ├── cli.py            # Command-line interface
 ├── requirements.txt  # Dependencies
