@@ -36,7 +36,7 @@ PhishGuard is a **command-line AI tool** that analyzes email content and classif
 
 ```bash
 # Clone the repo
-git clone https://github.com/RohitShinde7498/Phishing-Email-Detection.git
+git clone https://github.com/D4rkWh1T3/Phishing-Email-Detection.git
 cd Phishing-Email-Detection
 
 # Install dependencies
